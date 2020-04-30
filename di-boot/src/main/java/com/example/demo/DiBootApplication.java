@@ -1,13 +1,13 @@
-package com.jitz.carinfo;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarInfoServiceApplication {
+public class DiBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarInfoServiceApplication.class, args);
+		SpringApplication.run(DiBootApplication.class, args);
 	}
-	
+
 }
